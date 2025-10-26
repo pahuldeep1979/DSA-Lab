@@ -1,4 +1,16 @@
 ﻿# DSA Lab
-This repo contains my Queue (Assignment 4) and Linked List (Assignment 5) solutions.
 
-**Roll no :1024030982 , assignment completed**
+All Data Structures and Algorithms lab assignments.
+
+## Assignments
+1. Arrays  
+2. Arrays (Advanced)  
+3. Stack  
+4. Queue  
+5. Linked List  
+6. Doubly & Circular Linked List  
+
+---
+
+**Name:** Pahuldeep Singh  
+**Roll No:** 1024030982
